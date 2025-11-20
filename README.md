@@ -69,6 +69,7 @@ This endpoint create a task in the queue
 This endpoint gets stats on the queue as well as the workers
 
 ## Service architecture
+![Architecture Diagram](./zest_service.drawio.png)
 
 
 
