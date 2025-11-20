@@ -54,3 +54,24 @@ $ yarn run start:dev
 # production mode
 $ yarn run start:prod
 ```
+
+## Api endpoints
+
+```bash
+ Post - 127.0.0.1:<Port>\tasks
+```
+This endpoint create a task in the queue
+
+
+```bash
+ Get - 127.0.0.1:<Port>\statistics
+```
+This endpoint gets stats on the queue as well as the workers
+
+## Service architecture
+
+
+
+
+
+
