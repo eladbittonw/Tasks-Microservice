@@ -12,8 +12,7 @@
 
 ## Description
 
-Home Assigment -
-Zest tasks microservice - Elad Bitton
+tasks microservice - Elad Bitton
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Project setup
